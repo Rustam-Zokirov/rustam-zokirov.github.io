@@ -1,0 +1,70 @@
+html {
+    font-family: monospace;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: rgb(13, 17, 23);
+    color: rgb(195, 209, 217);
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    height: 1px;
+    width: 100%;
+    border-width: 0;
+    color: rgb(74, 82, 94);
+    background-color:rgb(74, 82, 94);
+}
+
+#my-photo {
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#my-photo img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+a {
+    color: rgb(71, 166, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+/* body {
+	background-color: lightblue;
+	margin: 0 auto;
+	max-width: 50em;
+	border: 2px solid black;
+}
+p {
+	text-align: center;
+}
+pre {
+	text-align: center;
+	color: #A75513
+}
+h1, h2 {
+	color: #B40F0F;
+	text-align: center;
+}
+
+#courses {
+	font-family: Tahoma;
+}
+a {
+	color:#9416AB;
+}
+a:visited {
+	color: #15900C
+}
+a:hover {
+	color: yellow;
+} */
