@@ -1,9 +1,9 @@
-html {
+body {
     font-family: monospace;
-    padding-left: 300px;
-    padding-right: 300px;
     background-color: rgb(13, 17, 23);
     color: rgb(195, 209, 217);
+    margin: 0 auto;
+    max-width: 50em;
 }
 
 h1 {
